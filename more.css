@@ -1,0 +1,95 @@
+*{
+   margin: 0%;
+   padding: 0%;
+   overflow: hidden;
+ 
+}
+/* .curved{
+   background-color: pink;
+   color: white;
+   text-align: center;
+}
+.curved h2{
+   font-size: 7em;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
+/* .tester{
+   width: 10rem;
+   height: 10rem;
+   background-color: red;
+   position: relative;
+   animation-name: square;
+   animation-duration: 5s;
+}
+@keyframes square{
+   from{background-color: blueviolet;}
+   to{background-color: pink;}
+} */
+
+/* .tester .box{
+   position: relative;
+   width: 20em;
+   height: 15em;
+   background-color: white;
+  margin: 40px 0;
+  justify-content: center;
+  align-items: center;
+   display: flex;
+   box-shadow: -30px rgba(0, 0, 0, 0.3);
+}
+.tester .box.shadow1{
+   box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.3);
+}
+.tester .box.shadow3::before{
+   content: ' ';
+   position: absolute;
+   width: 50%;
+   height: 30%;
+}
+
+body{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 100vh;
+
+} */
+
+.container{
+   width: 60%;
+   display: grid;
+   background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+   /* TRANSITIONS AND ANIMATIONS OF CSS
+
+
+   /* margin-left: 10em; 
+    margin-top: 5em;
+   background-color: pink;
+   border-radius:34% 64% 77% 26% /73% 54% 45% 19%; 
+   transition-property: width;
+   transition-delay: 0s;
+   transition-duration: 3s;
+   transition-timing-function: cubic-bezier(0,1,.72,.17);
+   transform: rotate(180deg);
+   transform: rotate(30deg);
+   transform:skewY(10deg);
+   transform:translate(50px)
+   
+}
+ .tester:hover{
+   width: 20em;
+   border-radius: 2em;
+   transform: rotate(360deg);
+} */

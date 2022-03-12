@@ -1,0 +1,75 @@
+*{
+   margin: 0%;
+   padding: 0%;
+   box-sizing: border-box;
+}
+
+
+ul{
+   list-style: none;
+   text-decoration: none;
+   display: flex;
+   justify-content: center;
+   
+
+}
+.drop-content{
+   display: none;
+   position: absolute;
+   padding: 12px 16px;
+   width: 200px;
+   height: 100px;
+   background-color: snow;
+}
+
+.dropdown:hover .drop-content{
+   display: block;
+}
+
+.container{
+   width: 100%;
+   background:var(--secondary);
+   font-size: 1.5em;
+   padding: 0.5em;
+   margin-bottom: 1em;
+   display: flex;
+   justify-content: space-between;
+
+}
+ul li{
+   padding-left: 1em;
+
+}
+:root{
+   --secondary:#333;
+}
+
+.main{
+   font-size: 15px;
+}
+
+
+.container1{
+   width: 25em;
+   height: 25em;
+   background:rgba(0, 0, 0, 0.65) ;
+   margin-top: 3em;
+   margin-left: 15em;
+   padding: 1em;
+   display: inline-block;
+   border-radius: 1em;
+}
+input{
+   margin-top: 2em;
+   margin-left: 3em;
+   width: 15em;
+   height: 3em;
+   display: block;
+  
+}
+button{
+   padding: 1em;
+   border-radius: 1em;
+   border: none;
+   margin: 2em;
+}
