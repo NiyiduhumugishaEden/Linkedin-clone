@@ -34,15 +34,23 @@ max-width: 800px;
    height: 100px;
    background-color: snow;
 }
+h3{
+   font-size: 25px;
+   margin: 5em;
+}
 
 .dropdown:hover .drop-content{
    display: block;
+   max-width: 200px;
+}
+.menu{
+   display: flex;
+   margin-top: 4em;
+  
 }
 
 .container{
-  
    background-image: url(./images/camille-brodard-VxAwTeiqDao-unsplash.jpg);
-   
    background-position: center;
    background-repeat: no-repeat;
    background-size: 60% 70%;

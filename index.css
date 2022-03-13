@@ -36,6 +36,7 @@ h2{
 
    
 }
+
 .main{
    font-size: 15px;
    display: flex;
@@ -53,6 +54,9 @@ padding: 1rem;
 border-radius: 3em;
 background: #333;
 
+}
+a{
+   color: white;
 }
 
 img{

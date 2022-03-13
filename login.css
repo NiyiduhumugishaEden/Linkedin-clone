@@ -47,12 +47,14 @@ ul li{
 .main{
    font-size: 15px;
 }
-
+body{
+   background-image: url(./images/kiran-ck-LSNJ-pltdu8-unsplash.jpg);
+}
 
 .container1{
    width: 25em;
    height: 25em;
-   background:rgba(0, 0, 0, 0.65) ;
+   background:var(--secondary);
    margin-top: 3em;
    margin-left: 15em;
    padding: 1em;
